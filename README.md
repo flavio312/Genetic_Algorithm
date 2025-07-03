@@ -1,4 +1,4 @@
-# API de Algoritmo Genético
+# API de Algoritmo Genético ICHEJA
 
 Una API REST desarrollada con FastAPI que implementa un algoritmo genético para la selección óptima de reactivos basada en debilidades específicas en lectura, escritura y memoria.
 
@@ -174,8 +174,3 @@ Para contribuir al proyecto:
 3. Implementa tus cambios
 4. Ejecuta las pruebas
 5. Envía un pull request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
-
